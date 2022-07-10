@@ -1,0 +1,37 @@
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\bin\Debug\MUV calculator.exe.config
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\bin\Debug\MUV calculator.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\bin\Debug\MUV calculator.pdb
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.csprojAssemblyReference.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form1.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Properties.Resources.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.csproj.GenerateResource.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\bin\Debug\MUV calculator.exe.config
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\bin\Debug\MUV calculator.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\bin\Debug\MUV calculator.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.csprojAssemblyReference.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form1.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Properties.Resources.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.csproj.GenerateResource.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.csproj.CoreCompileInputs.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.pdb
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form2.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form3.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form4.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades à distância 1º Bim (pelo Coronavirus)\------Arquivos feitos para entrega------\C#\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form5.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\bin\Debug\MUV calculator.exe.config
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\bin\Debug\MUV calculator.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\bin\Debug\MUV calculator.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.csprojAssemblyReference.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form1.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form2.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form3.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form4.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Form5.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV_calculator.Properties.Resources.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.csproj.GenerateResource.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.csproj.CoreCompileInputs.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 1\------Arquivos feitos para entrega------\C# (OK)\Calculadora de MUV\MUV calculator\obj\Debug\MUV calculator.pdb
